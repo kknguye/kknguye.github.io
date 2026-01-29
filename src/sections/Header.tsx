@@ -2,7 +2,7 @@ import Button from "../components/Button";
 import Logo from "../components/Logo";
 import DownloadIcon from '../assets/icn-download.svg';
 
-const RESUME_URL = import.meta.env.BASE_URL + 'resume_nguyen_2025.pdf';
+const RESUME_URL = import.meta.env.BASE_URL + 'resume_nguyen.pdf';
 
 const links = [
   { text: "About Me", href: "#about" },
