@@ -16,7 +16,7 @@ const Hero = () => {
             </div>
             {/* Inner Frame 2 */}
             <div>
-              <p><span className="font-extrabold">Clemson</span> Student</p>
+              <p><span className="font-extrabold">Clemson</span> New Grad</p>
             </div>
             {/* Inner Frame 3 */}
             <div>
@@ -26,9 +26,8 @@ const Hero = () => {
             <div className="text-base">
               <span className="text-zinc-500">
                 Passionate biologist turned aspiring computer scientist. 
-                After completing my B.S. in Biological Sciences from the University of South Carolina, I decided to pursue computer science at Clemson University. 
-                I will be graduating this December 2025. 
-                I previously worked at <a href="https://www.alarm.com" className="underline">Alarm.com</a> as a Software Engineer Co-Op.
+                I earned my B.S. in Biological Sciences from the University of South Carolina, then pursued a second degree in Computer Science at Clemson University, graduating Magna Cum Laude with a 3.9 GPA in December 2025. 
+                I previously completed two Software Engineer Co-Op rotations at <a href="https://www.alarm.com" className="underline">Alarm.com</a>, building full-stack features across Ember.js, .NET Core, and SQL for a platform serving 20,000+ commercial customers.
               </span>
             </div>
           </div>
